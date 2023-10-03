@@ -1,0 +1,190 @@
+Dir: ltr # Left to Right Direction
+
+BasicInfo:
+  FirstName: David
+  LastName: Peter
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: peteypeter@posteo.net
+      Link: false
+    - Icon: fas fa-phone
+      Info: (+1) 514 616 8260
+      Link: false
+    - Icon: fas fa-map-marker-alt
+      Info: Montreal, Canada
+      Link: false
+    - Icon: fab fa-linkedin-in
+      Info: linkedin.com/in/davidpeterprofile/
+      Link: true
+    #- Icon: fab fa-github
+    #  Info: github.com/hootan09
+    #  Link: true
+    - Icon: fas fa-globe
+      Info: d4d0o.github.io
+      Link: true
+
+Experience:
+  - Employer: Averna
+    Place: San Rafael, California
+    Positions:
+      - Title: Facebook/Meta - R&D Reality Lab test station
+        Date: 2021 - 2022
+        Details:
+          - Setup of a GNU/Linux system
+          - Development of a Python API for a R&D station
+          - Full system integration
+          - Designers coordination for gaps remediation to ensure requirements coverage
+          - System delivery
+        Badges: ['python', 'linux', 'hexapod', 'actuator', 'modbus', 'PLC']
+        
+  - Employer: Averna
+    Place: Montreal, Canada
+    Positions:
+      - Title: Amazon - Scout computing stack testing
+        Date: 2019 - 2021
+        Details:
+          - Test definition of the Amazon Linux computing stack
+          - Software and Hardware test station design. Setup of the Linux test scripting. Integration / Troubleshoot
+          - Provide support and expertise to Amazon teams all along their prototype and production campaigns
+        Badges: ['analog and digital electronic testing', 'linux embedded', 'TestStand', 'python', 'bash']
+        
+  - Employer: Averna
+    Place: Montreal, Canada
+    Positions:
+      - Title: CN Railway - PTC Test Lab Expert & SME
+        Date: 2016 - 2018
+        Details:
+          - Apprehend the PTC system end-to-end and integrate
+          - PTC components for individual test stations
+          - Participate in building the test environments and validation strategy
+          - Interface with CN IT services for assets deployment and maintenance
+          - Develop gaps remediation solution and design alternatives
+          - Implement virtualization technology to reduce cost and increase testing capacities
+          - Unlock a solution to virtualize the test station and the embedded Linux PTC system
+          - Initially planned for 50 stations, the lab scaled to 500+ virtual stations ; around $45,000 per station in cost savings
+          - Provide technical solutions to build the PTC Interoperability lab strategy, adapted the PTC components to simulate and operate foreign railroads for Interoperability project and act as a PTC SME being a key player in PTC system troubleshooting sessions
+          - Provide training on PTC system
+        Badges: ['linux embedded', 'windows administration', 'vmWare', 'bash']
+        
+  - Employer: Averna
+    Place: Montreal, Canada
+    Positions:
+      - Title: System Engineer
+        Date: 2016 - 2022
+        Details:
+          - Lead a team composed of Software Developers, Electrical Designers, PCB Designers, Mechanical designers, and subject matter experts
+          - Team up with the Project Manager and act as a Technical Leader in the management of technical scope, budget, schedule, task definition, procurement, risk assessment, and system-specific technical details
+          - Act as the Technical System representative for the client
+          - Define the architecture of test systems, clearly indicating how the system will ensure proper operation of the various functional requirements and prepare any required documentation
+          - Define the appropriate test strategy for a unit to test and prepare detailed test requirements
+          - Participate in design reviews with development teams
+          - Coordinate system procurement, development tasks including design, integration, validation, and implementation of client requirements
+        Badges: []
+        
+  - Employer: Bombardier
+    Place: Montreal, Canada
+    Positions:
+      - Title: Engineering Flight Control integration
+        Date: 2014 - 2016
+        Details:
+          - FBW technical support for the CSeries
+          - Integrate the V&V Test Campaign for the Global 7000 Safety Of Flight
+          - Interface with the flight control experts to assure the coverage of the tests
+          - Interface with testing rig experts to assure the applicability of the tests
+          - Iron Bird commissioning, Test processing, Troubleshooting
+        Badges: []
+
+  - Employer: CS Canada
+    Place: Montreal, Canada
+    Positions:
+      - Title: System Test & Test Bench Specialist
+        Date: 2011 - 2014
+        Details:
+          - Parker Aerospace Fly-By-Wire field support
+          - Support Bombardier Fly-By-Wire testing on Flying Test Vehicles and Iron Bird
+          - 
+          - Pratt & Whitney Engine Controller testing tools and simulators
+          - Master all hardware and software layers of HIL / SIL testing tools
+          - Integration and troubleshoot to put in service a custom Linux HIL / SIL test bench solution
+          - Support V&V Teams in troubleshooting tests or platform issues
+          - Follow engines controller’s evolutions and update tool chain accordingly
+          - Improve with customer modelling team the test systems stability
+          - Support customer on site for EMI testing campaigns
+          -
+          - Pratt and Whitney FADEC System Test campaign
+          - Perform system testing procedures on bench
+          - Review data, analyze results, validate requirements
+          - Provide feedback on failed requirements
+        Badges: ['opal-rt', 'matlab/simulink', 'C/C++', 'python', 'bash', 'linux']
+
+  - Employer: CNAM
+    Place: Paris, France
+    Positions:
+      - Title: Teacher
+        Date: 2008 & 2009
+        Details:
+          - Animate a course on Automatic Test Bench and software development in C with LabWindows/CVI
+        Badges: ['C', 'LabWindows / CVI']
+
+  - Employer: iS3i, Assystem, LGM, CS France
+    Place: Paris, France
+    Positions:
+      - Title: Test Bench Specialist
+        Date: 1999 - 2011
+        Details:
+          - Rocket Test Bench expertise — MBDA — Defense
+          - Analyze and improve automated testing tools reliability of a major French system defense
+          - Identify weaknesses, plan and develop corrective solutions
+          - Conduct bench and product expertise, rovide ongoing feedback to product experts
+          - Participate actively to troubleshooting and brainstorming sessions
+          - Ensure tools corrective solutions deployment on high security base
+          -
+          - Neuron Drone Video Modem integration bench — Thales — Defense
+          - 
+          - Metro Cabling test bench — RATP — Railway
+          - 
+          - Generic Test Bench design & development — Siemens VDO — Automotive
+          - Modernize the end of production radio tuner line test bench
+          - Create a new future proof generic architecture for all the current and coming products
+          - Develop all the system and test procedures
+          - 
+          - Avionic Computer Test Automation — INTERTECHNIQUE ZODIAC — Aerospace
+          - Develop test procedure on a generic electronic test bench for numerous computer
+          - Hardware and software, integration, troubleshooting and maintenance
+          - Test procedure update and optimization
+        Badges: ['opal-rt', 'matlab/simulink', 'C/C++', 'python', 'bash', 'linux']
+
+Education:
+  - Degree: M.Sc.
+    FieldOfStudy: Industrial Electronic & Computing
+    NameofSchool: CNAM
+    Location: Paris, France
+    Date: 2001 - 2004
+    #RelevantCourses:
+    #  - Algorithm Design
+    #  - Software Design Methodology
+  - Degree: Associate's degree in Electronic
+    FieldOfStudy: Electronic
+    NameofSchool: Lycee Diderot
+    Location: Paris, France
+    Date: 1997 - 1999
+
+Profile: 20 years of experience in test and integration engineering. Automation and testing tools specialist on a wide variety of application fields, Aerospace, Defense, Automotive, Telecommunication and Railway.
+  - Ease technical communication and coordination within multidisciplinary teams
+  - Focus on simplicity, efficiency, and reliability
+  - Excellent in maintenance and troubleshooting apprehending easily complex industrial systems
+  - Transverse skills system, mechanics, electronics, software, good overall physics knowledge
+
+Personal:
+    # Gender: Male
+    # BirthDate: 1990-10-05
+    # Status: Free to Work
+    # MaritalStatus: Single
+
+Skills:
+ - Linux | Bash | Git | SVN
+ - Python | C/C++
+ - LabWindows/CVI | Teststand | Matlab/Simulink | Opal-RT | HIL / SIL
+ - Common industrial protocols ARINC 429 | 1553 | CAN | TTP | RS-485 | ModBus | GPIB | I2C
+ - Digital and analog electronics | Instrumentation | Embedded computer | IoT | Wiring | Mechanic
