@@ -40,19 +40,6 @@ Experience:
           - Coordinate system procurement, development tasks including design, integration, validation, and implementation of client requirements
         Badges: []
         
-  - Employer: Bombardier
-    Place: Montreal, Canada
-    Positions:
-      - Title: Engineering Flight Control integration
-        Date: 2014 - 2016
-        Details:
-          - FBW technical support for the CSeries
-          - Integrate the V&V Test Campaign for the Global 7000 Safety Of Flight
-          - Interface with the flight control experts to assure the coverage of the tests
-          - Interface with testing rig experts to assure the applicability of the tests
-          - Iron Bird commissioning, Test processing, Troubleshooting
-        Badges: []
-
   - Employer: Averna
     Place: San Rafael, California
     Positions:
@@ -95,6 +82,19 @@ Experience:
           - Provide training on PTC system
         Badges: ['linux embedded', 'windows administration', 'vmWare', 'bash']
   
+  - Employer: Bombardier
+    Place: Montreal, Canada
+    Positions:
+      - Title: Engineering Flight Control integration
+        Date: 2014 - 2016
+        Details:
+          - FBW technical support for the CSeries
+          - Integrate the V&V Test Campaign for the Global 7000 Safety Of Flight
+          - Interface with the flight control experts to assure the coverage of the tests
+          - Interface with testing rig experts to assure the applicability of the tests
+          - Iron Bird commissioning, Test processing, Troubleshooting
+        Badges: []
+
   - Employer: CS Canada
     Place: Montreal, Canada
     Positions:
