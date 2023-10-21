@@ -25,7 +25,7 @@ BasicInfo:
       Link: true
 
 Experience:
-- Employer: Averna
+  - Employer: Averna
     Place: Montreal, Canada
     Positions:
       - Title: System Engineer
