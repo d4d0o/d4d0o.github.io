@@ -103,7 +103,7 @@ Experience:
         Details:
           - Parker Aerospace Fly-By-Wire field support
           - Support Bombardier Fly-By-Wire testing on Flying Test Vehicles and Iron Bird
-          - 
+          
           - Pratt & Whitney Engine Controller testing tools and simulators
           - Master all hardware and software layers of HIL / SIL testing tools
           - Integration and troubleshoot to put in service a custom Linux HIL / SIL test bench solution
@@ -111,7 +111,7 @@ Experience:
           - Follow engines controller’s evolutions and update tool chain accordingly
           - Improve with customer modelling team the test systems stability
           - Support customer on site for EMI testing campaigns
-          -
+          
           - Pratt and Whitney FADEC System Test campaign
           - Perform system testing procedures on bench
           - Review data, analyze results, validate requirements
@@ -183,8 +183,9 @@ Personal:
     # MaritalStatus: Single
 
 Skills:
+ - Aerospace quality v-model based testing and validation – DO-178, DO-254, DO-160 and military equivalent
+ - Common industrial protocols ARINC 429 | 1553 | CAN | TTP | RS-485 | ModBus | GPIB | I2C
+ - Digital and analog electronics | Instrumentation | Embedded computer | IoT | Wiring | Mechanic
  - Linux | Bash | Git | SVN
  - Python | C/C++
  - LabWindows/CVI | Teststand | Matlab/Simulink | Opal-RT | HIL / SIL
- - Common industrial protocols ARINC 429 | 1553 | CAN | TTP | RS-485 | ModBus | GPIB | I2C
- - Digital and analog electronics | Instrumentation | Embedded computer | IoT | Wiring | Mechanic
