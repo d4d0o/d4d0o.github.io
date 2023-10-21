@@ -25,6 +25,34 @@ BasicInfo:
       Link: true
 
 Experience:
+- Employer: Averna
+    Place: Montreal, Canada
+    Positions:
+      - Title: System Engineer
+        Date: 2016 - 2022
+        Details:
+          - Lead a team composed of Software Developers, Electrical Designers, PCB Designers, Mechanical designers, and subject matter experts
+          - Team up with the Project Manager and act as a Technical Leader in the management of technical scope, budget, schedule, task definition, procurement, risk assessment, and system-specific technical details
+          - Act as the Technical System representative for the client
+          - Define the architecture of test systems, clearly indicating how the system will ensure proper operation of the various functional requirements and prepare any required documentation
+          - Define the appropriate test strategy for a unit to test and prepare detailed test requirements
+          - Participate in design reviews with development teams
+          - Coordinate system procurement, development tasks including design, integration, validation, and implementation of client requirements
+        Badges: []
+        
+  - Employer: Bombardier
+    Place: Montreal, Canada
+    Positions:
+      - Title: Engineering Flight Control integration
+        Date: 2014 - 2016
+        Details:
+          - FBW technical support for the CSeries
+          - Integrate the V&V Test Campaign for the Global 7000 Safety Of Flight
+          - Interface with the flight control experts to assure the coverage of the tests
+          - Interface with testing rig experts to assure the applicability of the tests
+          - Iron Bird commissioning, Test processing, Troubleshooting
+        Badges: []
+
   - Employer: Averna
     Place: San Rafael, California
     Positions:
@@ -66,35 +94,7 @@ Experience:
           - Provide technical solutions to build the PTC Interoperability lab strategy, adapted the PTC components to simulate and operate foreign railroads for Interoperability project and act as a PTC SME being a key player in PTC system troubleshooting sessions
           - Provide training on PTC system
         Badges: ['linux embedded', 'windows administration', 'vmWare', 'bash']
-        
-  - Employer: Averna
-    Place: Montreal, Canada
-    Positions:
-      - Title: System Engineer
-        Date: 2016 - 2022
-        Details:
-          - Lead a team composed of Software Developers, Electrical Designers, PCB Designers, Mechanical designers, and subject matter experts
-          - Team up with the Project Manager and act as a Technical Leader in the management of technical scope, budget, schedule, task definition, procurement, risk assessment, and system-specific technical details
-          - Act as the Technical System representative for the client
-          - Define the architecture of test systems, clearly indicating how the system will ensure proper operation of the various functional requirements and prepare any required documentation
-          - Define the appropriate test strategy for a unit to test and prepare detailed test requirements
-          - Participate in design reviews with development teams
-          - Coordinate system procurement, development tasks including design, integration, validation, and implementation of client requirements
-        Badges: []
-        
-  - Employer: Bombardier
-    Place: Montreal, Canada
-    Positions:
-      - Title: Engineering Flight Control integration
-        Date: 2014 - 2016
-        Details:
-          - FBW technical support for the CSeries
-          - Integrate the V&V Test Campaign for the Global 7000 Safety Of Flight
-          - Interface with the flight control experts to assure the coverage of the tests
-          - Interface with testing rig experts to assure the applicability of the tests
-          - Iron Bird commissioning, Test processing, Troubleshooting
-        Badges: []
-
+  
   - Employer: CS Canada
     Place: Montreal, Canada
     Positions:
